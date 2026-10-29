@@ -1,0 +1,7 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/tenants/kgf/logo.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#D97706"
+  adaptive_icon_foreground: "assets/tenants/kgf/logo.png"
